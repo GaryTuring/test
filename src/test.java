@@ -7,5 +7,6 @@ public class test {
         System.out.println(i);
         System.out.println("hello commit");
         System.out.println("hot-fix now");
+        System.out.println("pull");
     }
 }

@@ -5,5 +5,6 @@ public class test {
         int i = 1 ;
         i = ++i;
         System.out.println(i);
+        System.out.println("hello commit");
     }
 }

@@ -8,5 +8,6 @@ public class test {
         System.out.println("hello commit");
         System.out.println("hot-fix now");
         System.out.println("pull");
+        System.out.println("删除前的修改");
     }
 }
